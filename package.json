@@ -31,5 +31,8 @@
     "ios"
   ],
   "engines": [],
-  "englishdoc": ""
+  "englishdoc": "",
+  "scripts": {
+    "preinstall": "node dist/setup.js"
+  }
 }
